@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="pendaftaran_tes">Pendaftaran Tes</string>
+    <string name="nama">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="email">Email</string>
+    <string name="hp">HP</string>
+    <string name="eprt">EPrT</string>
+    <string name="toefl_itp">TOEFL ITP</string>
+    <string name="toeic">TOEIC</string>
+    <string name="saya_menyatakan_bahwa_bulan_ini_saya_belum_pernah_mengikuti_tes">Saya menyatakan bahwa bulan ini saya belum pernah mengikuti tes.</string>
+    <string name="daftar">DAFTAR</string>
 </resources>
